@@ -1,2 +1,2 @@
 # CDIA-2026-turma-D
-Descrição opcional
+Esse é um projeto de testes para a aula do curso de CDIA. 
